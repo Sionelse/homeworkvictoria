@@ -1,3 +1,3 @@
 # homeworkvictoria
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Sionelse/homeworkvictoria)
+скачай отсюда все файлы и открой в vs
